@@ -27,45 +27,12 @@ Users should be able to:
 ![mobile-version](https://user-images.githubusercontent.com/98355491/176018916-76307577-c657-4f19-be35-a7a84af55eb3.png)
 
 
-### Links
-
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-using-flexbox-and-js-esDdBz88S)
-- Live Site URL: [live site URL](https://hopeful-ardinghelli-0b4cf9.netlify.app/)
-
-## Built with
-
-- Semantic HTML5 markup
-- CSS
-- Flexbox
-- JavaScript
-- Desktop-first workflow
-
-## Author
-
-- Facebook - [Indra Adi Kusuma](https:/facebook.com/profile.php?id=100009019826862)
-- Instagram - [@mrx.indra](https://instagram.com/mrx.indra)
-- Twitter - [@indrakusuma007](https://twitter.com/indrakusuma007?s=09)
-- LinkedIn - [Indra Adi Kusuma](https://www.linkedin.com/in/indra-adi-kusuma-a37955173)
-- Frontend Mentor - [@indraAK](https://www.frontendmentor.io/profile/indraAK)
 
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-using-flexbox-and-js-esDdBz88S)
 - Live Site URL: [live site URL](https://hopeful-ardinghelli-0b4cf9.netlify.app/)
 
-## Built with
-
-- Semantic HTML5 markup
-- CSS
-- Flexbox
-- JavaScript
-- Desktop-first workflow
-
-
-### Links
-
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-using-flexbox-and-js-esDdBz88S)
-- Live Site URL: [live site URL](https://hopeful-ardinghelli-0b4cf9.netlify.app/)
 
 ## Built with
 
