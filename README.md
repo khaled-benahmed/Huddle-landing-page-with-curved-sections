@@ -45,6 +45,5 @@ Users should be able to:
 ## Author
 
 
-- Twitter - [@indrakusuma007](https://twitter.com/indrakusuma007?s=09)
-- LinkedIn - [Indra Adi Kusuma](https://www.linkedin.com/in/indra-adi-kusuma-a37955173)
-- Frontend Mentor - [@indraAK](https://www.frontendmentor.io/profile/indraAK)
+- Twitter - [@bnahmed_khaled](https://twitter.com/bnahmed_khaled)
+- LinkedIn - [khaled-benahmed](https://www.linkedin.com/in/khaled-benahmed-80a453221/)
